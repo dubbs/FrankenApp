@@ -1,0 +1,14 @@
+#genie {
+  background: url(sprite.png) no-repeat;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 80px;
+  height: 120px;
+  margin-left: -40px;
+  margin-top: -60px;
+  -ms-transform: scale(3);
+  -webkit-transform: scale(3);
+  -o-transform: scale(3);
+  -moz-transform: scale(3);
+}
